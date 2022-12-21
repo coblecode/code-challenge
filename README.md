@@ -1,6 +1,6 @@
 # Coding Challenges
 
-## Problem 1 - The Longest Word (Easy)
+## Problem 1 - The Longest Word
 
 > For a given input string of words, create a function that returns the longest word in the string,
 > along with the number of characters in the word.
@@ -15,7 +15,7 @@
 > Output: name : 4 \
 > Explanation: name comes before John, and both have the same length.
 
-## Problem 2 - Tidy Number (Medium)
+## Problem 2 - Tidy Number
 
 > Given a number, the task is to check if it is tidy or not. \
 > A tidy number is a number whose digits are in non-decreasing order.
@@ -29,7 +29,7 @@
 > Output: false \
 > Explanation: Digits "4" and "3 violate the property"
 
-## Problem 3 - Find the missing letter (Medium)
+## Problem 3 - Find the missing letter
 
 > For a given Char Array in ascending order find the missing letter. \
 > Only lowercase letters are considered.
