@@ -31,11 +31,13 @@ class CodingChallengesJavaTest {
     boolean isTidy2 = codingChallengesJava.isTidy(3889);
     boolean isTidy3 = codingChallengesJava.isTidy(32849605);
     boolean isTidy4 = codingChallengesJava.isTidy(123123058);
+    boolean isTidy5 = codingChallengesJava.isTidy(456567);
 
     assertTrue(isTidy1);
     assertTrue(isTidy2);
     assertFalse(isTidy3);
     assertFalse(isTidy4);
+    assertFalse(isTidy5);
   }
 
   @Test

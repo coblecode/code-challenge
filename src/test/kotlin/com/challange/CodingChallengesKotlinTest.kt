@@ -26,11 +26,13 @@ internal class CodingChallengesKotlinTest {
     val isTidy2 = codingChallengesKotlin.isTidy(3889)
     val isTidy3 = codingChallengesKotlin.isTidy(32849605)
     val isTidy4 = codingChallengesKotlin.isTidy(123123058)
+    val isTidy5 = codingChallengesKotlin.isTidy(456567)
 
     assertTrue(isTidy1)
     assertTrue(isTidy2)
     assertFalse(isTidy3)
     assertFalse(isTidy4)
+    assertFalse(isTidy5)
   }
 
   @Test
